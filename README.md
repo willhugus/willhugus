@@ -1,11 +1,4 @@
-# Hi, I'm William 👋
-
-I'm a college student majoring in data science, and I apply things I learn in areas that interest me (mainly sports)
-I like to combine statistics, storytelling, and visualizations to breakdown complex things and make them easy to understand. 
-
-- I run a YouTube channel analyzing MLB trends (@Wilytics) 
-- My work here focuses on applying machine learning techniques to model patterns in sports
-- Skilled in Python, SQL, R, Stata, Machine Learning  
+Doing data science
 
 <!--
 **willhugus/willhugus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
